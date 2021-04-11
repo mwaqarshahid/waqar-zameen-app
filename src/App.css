@@ -1,0 +1,26 @@
+.Container {
+  text-align: center;
+}
+
+.Role {
+  display: inline-block;
+  height: 25px;
+  width: 70px;
+  border-radius: 13px;
+  border: 1px solid;
+  font-size: small;
+  font-weight: bold;
+  background-color: #d5f5f6;
+}
+
+.Footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #f1f3f6;
+}
+
+.BorderBetween {
+  border-left: 0px solid #f1f3f6;
+}
